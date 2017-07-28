@@ -2,11 +2,10 @@
   "name": "reservations",
   "version": "1.0.0",
   "description": "",
-  "main": "server6.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server6.js"
-
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
